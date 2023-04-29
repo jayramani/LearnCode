@@ -1,4 +1,4 @@
-# LearnCode 
+# LearnCode : Java TDD CLI Application
 
 ## Author : Jay Ramani
 
