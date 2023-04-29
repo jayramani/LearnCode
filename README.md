@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-### **Descripton:**
+### **Description:**
 
 This is a simple command-line interface (CLI) application built in Java that mimics the functionality of a tool like Udemy. The purpose of this project is to provide an opportunity to learn and practice Test-Driven Development (TDD) techniques in a practical setting.
 
